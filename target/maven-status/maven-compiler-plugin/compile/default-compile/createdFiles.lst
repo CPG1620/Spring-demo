@@ -1,0 +1,3 @@
+cr\ac\una\springdemo\entity\Cliente.class
+cr\ac\una\springdemo\bean\ClienteBean.class
+cr\ac\una\springdemo\entity\repository\ClienteRepository.class
